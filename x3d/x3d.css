@@ -1,0 +1,17 @@
+x3d
+    {
+        border:2px solid darkorange;
+    }
+
+    body
+    {
+        font-size:110%;
+        font-family:verdana, sans-serif;
+        margin: 3em;
+        color: lightgray;
+    }
+
+    h1
+    {
+        color: darkorange;
+    }
